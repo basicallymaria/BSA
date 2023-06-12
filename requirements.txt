@@ -5,4 +5,4 @@ astropy
 lenstronomy
 pyHalo
 colossus
-tensorflow
+tensorflow_docs
