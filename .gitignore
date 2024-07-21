@@ -1,2 +1,10 @@
 # skip the checkpoints
 checkpoints/
+
+# skip dumb mac specific files
+.DS_Store
+.DS_Store/
+
+# skip python caches
+__pycache__/
+*.pyc
