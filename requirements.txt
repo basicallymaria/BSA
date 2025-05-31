@@ -1,8 +1,8 @@
-numpy
-matplotlib
+numpy==1.26.4
+matplotlib==3.9.1
 emcee
-astropy
-lenstronomy
-pyHalo
-colossus
-tensorflow_docs
+astropy==6.1.1
+lenstronomy==1.11.10
+pyHalo==1.2.1
+colossus==1.3.6
+tensorflow_docs @ git+https://github.com/tensorflow/docs@773bcc865af5d5a45b405c80faf6fcc3cc510d7d
