@@ -1,0 +1,30 @@
+name: gravlensing-env-bsa2025
+channels:
+  - conda-forge
+  - menpo
+  - defaults
+dependencies:
+  - pip:
+    - pyHalo==1.2.1
+    - mcfit==0.0.21
+    - git+https://github.com/cgannonucm/SubScript@3cedc1b800e988126915ebb88aa85c5917b19c3a
+    - tensorflow_docs @ git+https://github.com/tensorflow/docs@773bcc865af5d5a45b405c80faf6fcc3cc510d7d
+    - numpy==1.26.4
+    - colossus>=1.3.1
+    - scipy==1.13
+  - matplotlib=3.9.1
+  - emcee=3.1.6
+  - astropy=6.1.1
+  - lenstronomy=1.11.10
+  - ipykernel=6.29.5
+  - ipython=9.0.2
+  - ipython_pygments_lexers=1.1.1
+  - jupyter=1.1.1
+  - ffmpeg-python=0.2.0
+  - ipywidgets=8.1.7
+  - pip=25.0
+  - ffmpeg=2.7.0=0
+  - pandas=2.2.2
+  - scipy==1.14.0
+  - corner==2.2.2
+
