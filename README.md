@@ -1,6 +1,6 @@
 # Welcome to basicallymaria/BSA
 
-This repository contains a collection of notebooks for the Programming the Universe: Investigating Dark Matter. This Academy  was part of a Bobcat Summer STEM Academy  https://calteach.ucmerced.edu/node/2341.
+This repository contains a collection of notebooks for the Programming the Universe: Investigating Dark Matter. This Academy was part of the Bobcat Summer STEM Academy https://calteach.ucmerced.edu/node/2341.
 
 ## Anaconda installation / enviroment setup
 Python dependencies are required to run the notebooks in this repository, we recommend installing these dependencies through Anaconda distributions. Here is a step by step guide to setting up your enviroment:
